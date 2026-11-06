@@ -1,0 +1,6 @@
+[82.9s] theta +2.1815: q4 +2.375155e-01 | mine C(x) +2.375155e-01, trace 1.000000000000, G-res 2.5e-12 | producer c.y +2.375155e-01, W-fit res 8.5e-14, |Ey|rel 4.7e-15, min rel eig F_b(y) -1.4e-12, cert value +2.375155e-01
+[82.9s]   part H: s = 9.675815e+00, theta = +2.1815, s*q4(C_th) = +2.298156e+00, q4(H) direct = +2.298156e+00, s * c.y = +2.298156e+00
+[163.0s] theta +2.8038: q4 +2.256194e-01 | mine C(x) +2.256194e-01, trace 1.000000000000, G-res 2.5e-12 | producer c.y +2.256194e-01, W-fit res 4.9e-14, |Ey|rel 4.6e-15, min rel eig F_b(y) -1.6e-12, cert value +2.256194e-01
+[163.0s]   part K: s = 3.314711e+00, theta = +2.8038, s*q4(C_th) = +7.478630e-01, q4(K) direct = +7.478630e-01, s * c.y = +7.478630e-01
+[163.0s] C #0: q4(C) = +3.04601896e+00, q4(H) + q4(K) = +3.04601896e+00, sum of s * c_th.y = +3.04601896e+00
+TIME wall=163.24 user=155.92 sys=7.26 maxrss_kb=1609284

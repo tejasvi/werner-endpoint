@@ -1,0 +1,5 @@
+[11.9s] loaded: N 1633, q 119, deg W 8, active blocks 514
+[19.3s] (c) with copy-major rows: columns w with w(s).c(s) not identically 0: 0 of 119 (exact, degree <= 24)
+[20.4s] (c) with coordinate-major rows: columns w with w(s).c(s) not identically 0: 119 of 119 (exact, degree <= 24)
+[21.1s] rank W(0) = 119 (q = 119); W_9, W_10 zero: True
+TIME wall=23.12 user=20.00 sys=2.68 maxrss_kb=7508064

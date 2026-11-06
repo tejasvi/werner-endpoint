@@ -1,0 +1,9 @@
+pairs from zeros on random qubit-supported planes:
+  plane 0: m_2 = 1.5e-16, ratio = 1.000000000000, rank(A + cI) = 2, rank(B + cI) = 2: True
+  plane 1: m_2 = -4.2e-16, ratio = 1.000000000000, rank(A + cI) = 2, rank(B + cI) = 2: True
+  plane 2: m_2 = -3.7e-16, ratio = 1.000000000000, rank(A + cI) = 2, rank(B + cI) = 2: True
+rank condition without saturation: A = diag(1,-1,0,0), B = 0: ratio = 0.500000: True
+[LC26] Thm 7, 3(a): ratio = 1.000000000000, rank(A + cI) = 2, rank(B + cI) = 2 with c = 0.0: True
+[LC26] Thm 7, 3(b): ratio = 1.000000000000, rank(A + cI) = 1, rank(B + cI) = 2 with c = -0.125: True
+2000 random traceless pairs: largest ratio = 0.8617 < 1: True
+CHECK C6 (Corollary 3.4): PASS

@@ -1,0 +1,7 @@
+[2.6s] built D*Z_b for 302 blocks (absent blocks: Z_b = 0)
+[14.0s] block part done
+[14.2s] equality part done
+[14.2s] IDENTITY: mismatching coordinates (a, b, ab): [3, 3, 3] of 1331 each
+[15.6s] PSD (tau route): 302 of 302 blocks certified PD; worst ||dY||_F / tau = 3.064e-02; failures []
+CERT_CHECK IDENTITY_FAIL PSD_OK
+TIME wall=15.91 user=15.47 sys=0.35 maxrss_kb=835752

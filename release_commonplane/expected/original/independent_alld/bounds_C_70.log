@@ -1,0 +1,21 @@
+[11.5s] order 1: ||At_j||_inf = 1.8374e+03, ||Dr (r_j)_R||_inf = 7.8368e+04
+[12.1s] order 2: ||At_j||_inf = 9.0238e+03, ||Dr (r_j)_R||_inf = 1.3483e+06
+[12.6s] order 3: ||At_j||_inf = 3.0025e+04, ||Dr (r_j)_R||_inf = 9.3992e+06
+[13.1s] order 4: ||At_j||_inf = 6.3872e+04, ||Dr (r_j)_R||_inf = 3.5604e+07
+[16.6s] order 5: ||At_j||_inf = 8.6988e+04, ||Dr (r_j)_R||_inf = 7.8257e+07
+[17.1s] order 6: ||At_j||_inf = 8.1086e+04, ||Dr (r_j)_R||_inf = 9.7001e+07
+[17.4s] order 7: ||At_j||_inf = 4.8472e+04, ||Dr (r_j)_R||_inf = 5.5562e+07
+[17.7s] order 8: ||At_j||_inf = 4.2619e+04, ||Dr (r_j)_R||_inf = 1.4588e+07
+[18.1s] order 9: ||Dr (c_j)_R||_inf = 2.2351e+07
+[18.1s] order 10: ||Dr (c_j)_R||_inf = 1.1416e+07
+[18.1s] order 11: ||Dr (c_j)_R||_inf = 3.4642e+06
+[18.1s] order 12: ||Dr (c_j)_R||_inf = 4.7239e+05
+[18.1s] order 13: ||Dr (c_j)_R||_inf = 0.0000e+00
+[18.1s] order 14: ||Dr (c_j)_R||_inf = 0.0000e+00
+[18.1s] order 15: ||Dr (c_j)_R||_inf = 0.0000e+00
+[18.1s] order 16: ||Dr (c_j)_R||_inf = 0.0000e+00
+[18.1s] theta0 1.3997e-06, beta 1.5983e+07, e(s0) 1.5564e-18, beta*e(s0) 2.4875e-11 (< 1/2: True), rho(s0) 6.6380e-17
+[19.7s] blocks with unknowns in S: 402; failures 1; worst (needed correction bound) / margin = 1.2082e+00
+[24.1s] left kernel: rows Q chosen (119), theta_W = 9.7162e-02, sum_j s0^j ||W_Q,j T||_inf = 1.9859e-13  -> rank certificate True
+BOUNDS_RESULT s0 = 2^-70: FAIL (beta e 2.488e-11, worst block ratio 1.208e+00, W 9.716e-02)
+TIME wall=25.62 user=22.19 sys=3.15 maxrss_kb=7520416

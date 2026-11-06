@@ -1,0 +1,15 @@
+bounds: |St| <= 2^50, |E| <= 2^45; cross products < 2^96
+my rows identically zero (abs bound 0): 0 of 8820
+prime 1048573: nonzero rows E 8820, mine 8820; E rows without a proportional row of mine: 0; ambiguous 8820
+   distinct rows of mine hit: 152
+prime 1048571: nonzero rows E 8820, mine 8820; E rows without a proportional row of mine: 0; ambiguous 8820
+   distinct rows of mine hit: 152
+prime 1048559: nonzero rows E 8820, mine 8820; E rows without a proportional row of mine: 0; ambiguous 8820
+   distinct rows of mine hit: 152
+prime 1048549: nonzero rows E 8820, mine 8820; E rows without a proportional row of mine: 0; ambiguous 8820
+   distinct rows of mine hit: 152
+prime 1048517: nonzero rows E 8820, mine 8820; E rows without a proportional row of mine: 0; ambiguous 8820
+   distinct rows of mine hit: 152
+matching identical across primes: True; P = 2^100 vs need 2^96 -> EXACT
+certificate rows erows: 146; all matched to a Stiefel row: True
+TIME wall=8.81 user=6.70 sys=1.46 maxrss_kb=1516820

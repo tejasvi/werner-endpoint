@@ -1,0 +1,5 @@
+(a) equality rows: nonzero (order, copy) combinations 0 (535s)
+(b) compressed blocks: nonzero (block, order, solution) combinations 0 (2690s)
+(c) consistency w(s).c(s): nonzero (order, solution) combinations 0 (2695s)
+rank W(0) = 119 (left kernel dimension at s = 0: 119, kept solutions 119) (2695s)
+LEFT-KERNEL CERTIFICATE VERIFIED

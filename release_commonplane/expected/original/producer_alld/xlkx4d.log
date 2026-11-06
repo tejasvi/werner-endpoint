@@ -1,0 +1,8 @@
+data stored: 514 blocks, 9 orders (16s)
+prime 1048343: compressed rows ready (5200 x 4899, 9 orders) (715s)
+prime 1048343: rank 4780, q 119, solutions (deg <= 10) 877, rank at s = 0 119 (1069s)
+prime 1048357: compressed rows ready (5200 x 4899, 9 orders) (1777s)
+prime 1048357: rank 4780, q 119, solutions (deg <= 10) 877, rank at s = 0 119 (2129s)
+prime 1048361: compressed rows ready (5200 x 4899, 9 orders) (2835s)
+prime 1048361: rank 4780, q 119, solutions (deg <= 10) 877, rank at s = 0 119 (3185s)
+residues of 3 primes saved (3185s)

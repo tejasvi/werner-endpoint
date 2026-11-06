@@ -1,0 +1,4 @@
+face bases from xred4d4s2.pkl: 514 active blocks
+reduced all-theta problem (max-margin normalisation): vars 4899, blocks 514, max block 59, sum r^2 44985 (12s)
+RESULT reduced all-theta: unknown primal +1.2384e-06 dual +1.2321e-06; margin nu 1.2321e-06, residual 3.65e-16 (1754s)
+reduced duals: min eig / own max 2.70e-05, min eig / global max 2.66e-05 (1754s)

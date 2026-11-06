@@ -1,0 +1,4 @@
+M1 (coef[0] + 1 in block 488 coord 1): mismatching coordinates 1 (expect 1)
+M2: (a) residues at s = 1 with the original W: 0 (expect 0)
+M2: (a) residues at s = 1 with W_0[0,65] + 1: 252 (expect > 0)
+TIME wall=20.62 user=15.87 sys=3.82 maxrss_kb=7520336

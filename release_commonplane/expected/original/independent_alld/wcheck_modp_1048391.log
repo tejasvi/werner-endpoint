@@ -1,0 +1,4 @@
+[15.1s] loaded: N 1633, q 119, deg W 8, active blocks 514
+[31.9s] bounds: |coef (a)| <= 2^183, |coef (b)| <= 2^228; need prod p > 2^229
+[170.2s] prime 1048391: (a) nonzero residues 0, (b) nonzero residues 0  [17 points s = 1..17]
+TIME wall=172.24 user=160.39 sys=9.81 maxrss_kb=8085464

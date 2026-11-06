@@ -1,0 +1,8 @@
+[52.0s] variables: 150, coordinates 1331; structural failures: 0 []
+[52.0s] D1 ca: 0 of 1331 coordinates differ (exact)
+[52.0s] D1 cb: 0 of 1331 coordinates differ (exact)
+[52.0s] D1 cab: 0 of 1331 coordinates differ (exact)
+[52.0s] D1 tr: 0 of 1331 coordinates differ (exact)
+[72.4s] D3 cut(): 355377 (block, coordinate) pairs checked, 0 mismatches
+[72.4s] done
+TIME wall=73.46 user=71.96 sys=1.48 maxrss_kb=4229324

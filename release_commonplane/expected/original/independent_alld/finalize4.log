@@ -1,0 +1,4 @@
+d=inf: primes 4 (prod 2^119); cut(3,) all-zero mismatches True; bound 8! Bm + Bp = 2^90 -> cut(3,) EXACT; E rows proportional True, same match across 4 primes True, cross-product bound 2^105 -> E rows EXACT
+d=14: primes 5 (prod 2^149); cut(3,) all-zero mismatches True; bound 8! Bm + Bp = 2^120 -> cut(3,) EXACT; E rows proportional True, same match across 5 primes True, cross-product bound 2^139 -> E rows EXACT
+d=20: primes 5 (prod 2^149); cut(3,) all-zero mismatches True; bound 8! Bm + Bp = 2^120 -> cut(3,) EXACT
+TIME wall=2.41 user=0.59 sys=0.19 maxrss_kb=217320

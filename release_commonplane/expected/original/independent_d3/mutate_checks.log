@@ -1,0 +1,6 @@
+M1 (one cut-(3,) entry +1): mismatches 1 (expect 1)
+M2 (one c_a entry changed): mismatches 1 (expect 1)
+M3 (one E entry +1): original row matched True, mutated row matched False (expect True, False)
+M4: see cert_check.py mutlam / mutY / mutdY runs (logs/cert_check_mut*.log)
+M5 (dYn x 10^8 on block 50): Weyl bound ||dY||_F < tau holds: False (expect False)
+TIME wall=2.90 user=2.48 sys=0.34 maxrss_kb=1013172

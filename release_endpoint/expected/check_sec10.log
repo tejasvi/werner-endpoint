@@ -1,0 +1,25 @@
+OK (I) per-copy minimum (dagger 1)
+OK (II) merge identity (dagger 2)
+OK (III) eigenvalues 2 w_i w_j, 2 w_i w_j (2/(w_i+w_j) - 1); minimum (dagger 3); w_i e_j - w_j e_i
+OK (IV) kappa_ij w_i w_j - (a_i b_j - a_j b_i)^2 identity (dagger 4)
+OK (V) one-copy sum of squares (dagger 5)
+Lemma B.11: min eig(S_m - bound): -4.548e-16
+Lemma B.11 top level: -|S_m - bound|: -5.684e-14
+Step 1 identity: -|2^k q - form|/|form|: -4.760e-16
+(B.5): min eig(A_cc - |f_c|^2 I): 1.271e-02
+Theorem 4.7: min eig of [[A00,A01],[A10,A11]] / scale: 6.927e-03
+Step 2: -|A10 - formula|: -0.000e+00
+Step 2: -max |A00| across digit-1 blocks: -0.000e+00
+Step 2: -|block without 1 - M|: -3.553e-15
+Step 2: -|block only-1-at-j - 2[M^(j) + a_j W]|: -7.105e-15
+Step 2: min eig(tilde A00 - underline A00): -4.483e-16
+Step 2: min eig(tilde A11 - underline A11): -6.550e-16
+Step 2: -max |A10| outside T1 x T0: -0.000e+00
+Step 2 conclusion: min eig [[uA00, A01],[A10, uA11]] / scale: 3.356e-02
+Step 3: -|display - quadratic form|/scale: -5.947e-16
+Step 3: 2 al0^2 + 3 abar - a_j = 2 + abar - a_j: -8.882e-16
+Step 3: raw form - scaled form (>= 0): 7.154e-02
+Step 3: scaled form - G (>= 0): 6.763e-03
+Step 4: G >= 0 (G/scale): 8.915e-03
+Step 4: G_before - G_after (>= 0): 1.884e-03
+OK Part B (all minima >= -1e-9)

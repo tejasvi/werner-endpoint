@@ -1,0 +1,7 @@
+bounds: |mine| <= 9.749e+22 (77 bits), |prod| <= 5.931e+19 (66 bits)
+prime 1048573: 114466 (block, coordinate) pairs compared (47188 with no contribution from B_i), 0 mismatches
+prime 1048571: 114466 (block, coordinate) pairs compared (47188 with no contribution from B_i), 0 mismatches
+prime 1048559: 114466 (block, coordinate) pairs compared (47188 with no contribution from B_i), 0 mismatches
+prime 1048549: 114466 (block, coordinate) pairs compared (47188 with no contribution from B_i), 0 mismatches
+product of matching primes: 80 bits; needed > 77 bits  ->  EXACT EQUALITY PROVED
+TIME wall=11.31 user=7.75 sys=0.77 maxrss_kb=1145016

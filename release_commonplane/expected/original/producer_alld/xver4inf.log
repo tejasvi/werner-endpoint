@@ -1,0 +1,5 @@
+copy 1: nonzero residual entries 0 of 1633 (13s)
+copy 2: nonzero residual entries 0 of 1633 (13s)
+copy 3: nonzero residual entries 0 of 1633 (14s)
+PD blocks 514 of 514; identity exact: True; solution denominator 2^8066 (18s)
+VERIFIED

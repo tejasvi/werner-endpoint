@@ -1,0 +1,5 @@
+M = 2^(e IM) A_RS(s) assembled (4780 x 4780, e = 80, IM = 8) (75s)
+residual of x0 at s: max |r| = 2.958e+173 (scaled by 2^(e IM)) (99s)
+exact solve done: solution denominator 2^55804 (1634s)
+largest correction entry x r_b / lambda_min(Yhat_b) over blocks: 1.678e-12 (1637s)
+certificate at d = 2^80 written (verify with xverify.py on xpolyeval.py data at d = 1208925819614629174706176) (1637s)

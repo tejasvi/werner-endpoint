@@ -1,0 +1,16 @@
+import NPT.CP3.Chk.D0Defs
+
+/-!
+# NPT.CP3.Chk.D078 — B_σ relations 20..23 of variable 147
+
+Kernel check (`decide +kernel`) of the variable-block data; see `NPT.CP3.Chk.D0Defs`.
+-/
+
+set_option maxHeartbeats 0
+set_option maxRecDepth 1000000
+
+namespace NPT.CP3.Chk
+
+theorem d0b147_04_ok : (List.range' 20 4).all (bsigOK1 147) = true := by decide +kernel
+
+end NPT.CP3.Chk

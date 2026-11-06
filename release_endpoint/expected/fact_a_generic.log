@@ -1,0 +1,10 @@
+j = 1: (a) rank 3 (need 3): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 2: (a) rank 7 (need 7): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 3: (a) rank 15 (need 15): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 4: (a) rank 31 (need 31): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 5: (a) rank 63 (need 63): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 6: (a) rank 127 (need 127): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 7: (a) rank 255 (need 255): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 8: (a) rank 511 (need 511): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+j = 9: (a) rank 1023 (need 1023): True;  (b) all T-blocks nonsingular: True;  (c) Q-rank 2: True
+FACT C5 (good vectors exist for j = 1..9): PASS

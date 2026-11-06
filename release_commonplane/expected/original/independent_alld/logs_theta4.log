@@ -1,0 +1,15 @@
+[108.5s] variables 264; structural failures 0 []
+[131.6s] cut() outputs: 667897 (block, coord) pairs, 0 mismatches
+[131.6s] objective ca at d=inf: 0 of 1633 coordinates differ (exact)
+[131.6s] objective cb at d=inf: 0 of 1633 coordinates differ (exact)
+[131.7s] objective cab at d=inf: 0 of 1633 coordinates differ (exact)
+[131.7s] objective ca at d=14: 0 of 1633 coordinates differ (exact)
+[131.7s] objective cb at d=14: 0 of 1633 coordinates differ (exact)
+[131.8s] objective cab at d=14: 0 of 1633 coordinates differ (exact)
+[131.8s] objective ca at d=16: 0 of 1633 coordinates differ (exact)
+[131.9s] objective cb at d=16: 0 of 1633 coordinates differ (exact)
+[131.9s] objective cab at d=16: 0 of 1633 coordinates differ (exact)
+[132.0s] objective ca at d=20: 0 of 1633 coordinates differ (exact)
+[132.0s] objective cb at d=20: 0 of 1633 coordinates differ (exact)
+[132.1s] objective cab at d=20: 0 of 1633 coordinates differ (exact)
+TIME wall=134.25 user=113.82 sys=3.21 maxrss_kb=9045808

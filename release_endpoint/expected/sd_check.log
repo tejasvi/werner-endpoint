@@ -1,0 +1,14 @@
+symbolic
+  c^2 - 8c + 8 = 0 at c = 4 - 2 sqrt2: True
+  at delta = cm, nu_1 = 1/2: L = 1/(2cm), and L - R_i and 2m(L - R_ii) are the two stated slacks: True
+  slacks at m = 1/4 are (c^2 - 8c + 8)/(c(4 - c)) and half of it: True
+  on (0, 1/4]: 1/(2cm) decreases, 1 + 1/(4 - 2(4+c)m) and the right side of the second form increase: True
+  L(1/4) = R_i(1/4) = 1 + 1/sqrt2: True
+  L' = (4 - c)/(2 - (8 - c)m)^2 and R_i' = 4/(2 - (4 + c)m)^2: True
+  threshold m0 = 0.128326 < 1/4, and both bases are positive below 2/(8-c) = 0.292893: True
+floating point
+  (B.3) against the full operator, d = 3, 4: max deviation 1.6e-15: True
+  class planes, d = 3..6 (1600): min of m_2(V) / ((1 - 1/sqrt2) nu_3(V)) = 1.0615 >= 1: True
+  V = span{|00>, Omega}: m_2 = 0.146446609407, (1 - 1/sqrt2) nu_3 = 0.146446609407 (equality): True
+  C_*: q_2 = 0.171572875254 = 3 - 2 sqrt2, ||C_*||^2 = 1.171572875254 = 4 - 2 sqrt2, ratio = m_2(V): True
+CHECK C3 (Theorem 7.2): PASS

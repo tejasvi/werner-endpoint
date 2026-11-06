@@ -1,0 +1,13 @@
+d=inf: 4 primes (2^119), cut(3,) EXACT (need 2^90); E rows: 4 primes (2^119), same match True, EXACT (need 2^105)
+d=14: 5 primes (2^149), cut(3,) EXACT (need 2^120); E rows: 5 primes (2^149), same match True, EXACT (need 2^139)
+d=16: 1 primes (2^29), cut(3,) no (need 2^120)
+d=20: 6 primes (2^179), cut(3,) EXACT (need 2^120); E rows: 6 primes (2^179), same match True, EXACT (need 2^141)
+d=22: 6 primes (2^179), cut(3,) EXACT (need 2^125); E rows: 6 primes (2^179), same match True, EXACT (need 2^144)
+d=24: 6 primes (2^179), cut(3,) EXACT (need 2^125); E rows: 6 primes (2^179), same match True, EXACT (need 2^144)
+d=26: 6 primes (2^179), cut(3,) EXACT (need 2^125); E rows: 6 primes (2^179), same match True, EXACT (need 2^145)
+d=28: 6 primes (2^179), cut(3,) EXACT (need 2^125); E rows: 6 primes (2^179), same match True, EXACT (need 2^145)
+d=30: 6 primes (2^179), cut(3,) EXACT (need 2^125); E rows: 6 primes (2^179), same match True, EXACT (need 2^145)
+d=32: 6 primes (2^179), cut(3,) EXACT (need 2^126); E rows: 6 primes (2^179), same match True, EXACT (need 2^146)
+blocks: exact at leading coefficient True and 8 finite d ['14', '20', '22', '24', '26', '28', '30', '32'] -> polynomial identity: True
+rows: exact proportionality at leading coefficient True and 8 finite d ['14', '20', '22', '24', '26', '28', '30', '32'], same matched row at all these points True -> identity: True
+TIME wall=2.81 user=0.96 sys=0.28 maxrss_kb=216316

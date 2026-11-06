@@ -1,0 +1,4 @@
+blocks: 574 checked, 0 mismatches, 0 built blocks without a polynomial counterpart
+equality rows: E_poly == c_E E_built for every entry: True (c_E = 1944 = 81 x K!)
+objective/trace vectors equal: True
+NODE CHECK at d = 15: PASS

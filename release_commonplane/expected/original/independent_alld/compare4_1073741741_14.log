@@ -1,0 +1,7 @@
+[6.9s] xpoly4 loaded: 574 blocks, N 1633, DEN_PHI 576, nodes [4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+outputs with tau None: 21
+cut-(3,) outputs 165; present in xpoly 165; degrees [(0, 0), (2, 2), (4, 4), (6, 6), (8, 8)]
+[11.3s] producer cut-(3,) coefficients reduced mod p
+[14.1s] RESULT d=14 p=1073741741 cut(3,): 269445 (block,coord) pairs compared, 0 mismatches; absent-from-xpoly blocks with nonzero mine: 0; deg != 2F_t: 0
+[17.4s] RESULT d=14 p=1073741741 E rows: 8820 rows, zero 0, without a proportional row of mine 0
+TIME wall=18.42 user=14.67 sys=3.01 maxrss_kb=7918184

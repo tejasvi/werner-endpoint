@@ -1,0 +1,7 @@
+random planes (200): ratio 2^k m_k / min nu_3 in [4.219, 7.786]
+start 0: m_k = 0.012839, nu_3 = [0.1 0.1 0.1], ratio to 2^(1-k) delta = 1.0271, ratio 2^k m_k/min nu_3 = 1.0271, feasible True
+start 1: m_k = 0.012761, nu_3 = [0.1001 0.1    0.1   ], ratio to 2^(1-k) delta = 1.0209, ratio 2^k m_k/min nu_3 = 1.0209, feasible True
+start 2: m_k = 0.012780, nu_3 = [0.1 0.1 0.1], ratio to 2^(1-k) delta = 1.0224, ratio 2^k m_k/min nu_3 = 1.0227, feasible True
+start 3: m_k = 0.012761, nu_3 = [0.1 0.1 0.1], ratio to 2^(1-k) delta = 1.0209, ratio 2^k m_k/min nu_3 = 1.0209, feasible True
+constrained minimisation at delta = 0.05: smallest ratio 2^k m_k / min nu_3 = 1.0209 (>= 1 expected)
+CHECK C7 (Conjecture 7.1, numerical instance k = 3, d = 3): PASS

@@ -1,0 +1,13 @@
+[first copy transverse] psi_0 = ['3 - 5*I', '-5 - 4*I', '-4 - 2*I', '-3 - I', '-4 + I', '3', '4 - 3*I', '1 - 4*I']
+  (1) S psi_b = 0 for b = 0, 1: True
+  (2) rank S = 2
+  (3) leading minors on the complement: 832.8901368, 432808.4384; positive: True
+  float cross-check with the full operator E: max relative deviation 8.53e-16; dim ker E(psi_0 psi_0^*) = 1
+  (G2) for this transverse copy: True
+[second copy transverse] psi_0 = ['3 - 5*I', '-5 - 4*I', '-4 + I', '3', '-4 - 2*I', '-3 - I', '4 - 3*I', '1 - 4*I']
+  (1) S psi_b = 0 for b = 0, 1: True
+  (2) rank S = 2
+  (3) leading minors on the complement: 1475.229178, 306161.4141; positive: True
+  float cross-check with the full operator E: max relative deviation 1.94e-15; dim ker E(psi_0 psi_0^*) = 1
+  (G2) for this transverse copy: True
+FACT C2 (G2 nonempty, both copies transverse): PASS

@@ -1,0 +1,15 @@
+Part A (symbolic)
+  T_11 = (2c11, 0, c21): True
+  T_22 = (0, 2c22, c12): True
+  T_12 = (2c12, 2c21, c11 + c22): True
+  det[T_11, T_22, T_12] = 4 Tr(C_S) det(C_S): True
+  y = (c12, -c21, (c22 - c11)/2): True
+  Schur case: T(s) and y have zero second coordinate, and the T(s) span that plane: True
+  Tr C_S = 0: l . T_11 = l . T_22 = l . T_12 = 0: True
+  Tr C_S = 0: l . y = 2 det C_S: True
+  Tr C_S = 0 != det C_S: rank[T_11, T_22, T_12] = 2 (minors -4 c11^2 and -2 c12^2): True
+Part B (floating point)
+  (P): q_2 = t_1 + beta on 20 random C, max deviation 7.5e-16 < 1e-12: True
+  qubit-supported zeros: m_2(V) = 0, t_1 = beta = 0, z != 0 and N z = xi_0 (3 random planes): True
+  50 random planes (local supports of dimension 3): min m_2(V) = 0.109 > 0: True
+CHECK C4 (Theorem 3.2): PASS
